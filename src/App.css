@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding-left: 50%;
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+card {
+  display: flex;
+  align-items: center;
 }
